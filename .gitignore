@@ -1,0 +1,21 @@
+﻿# Data
+NYC.csv
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model files (too large for GitHub - see README for regeneration steps)
+nyc-taxi-trip-duration/model/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Backend runtime files
+nyc-taxi-trip-duration/backend/api.log
+nyc-taxi-trip-duration/backend/predictions.db
+
+# System files
+desktop.ini
