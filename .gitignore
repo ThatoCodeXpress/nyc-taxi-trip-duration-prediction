@@ -19,3 +19,6 @@ nyc-taxi-trip-duration/backend/predictions.db
 
 # System files
 desktop.ini
+
+# Presentation docs (kept locally, not part of the deployed repo)
+*.pdf
