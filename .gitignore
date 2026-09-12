@@ -7,6 +7,7 @@ NYC.csv
 
 # Model files (too large for GitHub - see README for regeneration steps)
 nyc-taxi-trip-duration/model/*.pkl
+*.pkl
 
 # Python
 __pycache__/
@@ -22,3 +23,8 @@ desktop.ini
 
 # Presentation docs (kept locally, not part of the deployed repo)
 *.pdf
+
+# UI screenshots and presentation (kept locally only)
+UI.jpg
+NYC_Taxi_Presentation.pptx
+NYC taxi trip duration predictorUI.png
